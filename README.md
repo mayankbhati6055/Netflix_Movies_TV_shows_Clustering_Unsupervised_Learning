@@ -41,3 +41,19 @@ Inverse Document Frequency (IDF): This metric measures the importance of a term 
 IDF(t) = log_e(Total number of documents / Number of documents containing term t)
 
 The plot will also indicate the "elbow" point, which represents the recommended number of clusters based on the selected metric.Using elbow plot with the optimal number of 5 clusters .
+
+
+
+CONCLUSION
+
+1.It's noteworthy that most of the content offered on Netflix is in the form of movies. However, the platform has been emphasising TV shows more recently.
+
+2- The majority of these shows debut at the end or beginning of the year.
+
+3-Among the top five nations that create all of the content that is made available on the platform are the United States and India. Furthermore, six of the top ten actors with the most content hail from India.
+
+4- TV-MA dominates the charts for content ratings, showing that mature content is more well-liked on Netflix.
+
+5- The data were clustered using the value of k=15, which was found to be the best option. Ten different clusters were created using this value.
+
+6- Using this information, a content-based recommender system was developed using cosine similarity, which offered suggestions for films and television programmes.
